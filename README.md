@@ -1,2 +1,2 @@
 # first-project
-first repo projrct
+first repo project
